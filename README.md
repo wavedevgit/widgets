@@ -1,6 +1,6 @@
 # widgets
 
-Discord widgets tutorial, watch video [here]() on how to use this repository
+Discord widgets tutorial, watch video [here](https://youtu.be/Yq0vDExfVC8) on how to use this repository
 
 
 ## Credits:
