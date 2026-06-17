@@ -1,5 +1,10 @@
 # widgets
 
+## 👉 Preferably, please use the new better version of this script. it no longer requires node.
+## Check it out here:
+## https://codeberg.org/wavedevgit/discord-widget-creator
+
+
 Discord widgets tutorial, watch video [here](https://youtu.be/Yq0vDExfVC8) on how to use this repository
 
 # How to use:
